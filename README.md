@@ -1,6 +1,6 @@
 # Fatma Mohamed
 I'm a front-end developer who is passionate about making responsive user interfaces. I love to learn new technologies and try them myself.
-I have already learned basic web technologies and now I'm practicing it(more focus on JS) and start to learn JS frameworks (start with React).
+I have already learned basic web technologies and now I'm practicing it(more focus on JS) and start to learn JS frameworks.
 
 
 ## Skills
