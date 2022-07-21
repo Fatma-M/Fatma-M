@@ -9,6 +9,7 @@ I have already learned basic web technologies and now I'm practicing it(more foc
 * 💻 Bootstrap
 * 💻 SASS (SCSS)
 * 💻 JavaScript (ES6, APIs....)
+* 💻 Vue (still learning)
 
 <!--  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fatma-M)](https://github.com/anuraghazra/github-readme-stats) -->
 
