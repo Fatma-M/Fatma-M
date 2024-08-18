@@ -60,3 +60,8 @@ I'm a passionate Frontend Developer with a focus on building responsive, fast, a
 <a href="https://www.frontendmentor.io/profile/Fatma-M" target="blank"><img align="center" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt="Fatma Mohamed" height="40" width="50" /></a>
 </p>
 
+---
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatma-m&hide_progress=true" alt="fatma-m" /></p>
+
+
+
